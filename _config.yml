@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Dhruvil Maniar"
+title                    : "Software Engineer & Builder"
 title_separator          : "-"
 name                     : &name "Dhruvil Maniar"
 description              : &description "Dhruvil Maniar – SDE 3 | Backend & Distributed Systems Engineer"
