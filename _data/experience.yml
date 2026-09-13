@@ -6,7 +6,7 @@
   location: "Ahmedabad, India (Hybrid)"
   url: "https://pirimidtech.com"
   roles:
-    - title: "SDE 3"
+    - title: "SDE 3 (Software Development Engineer 3)"
       period: "May 2026 – Present"
       description: >
         Leading the design and operation of financial data platforms powering
@@ -21,7 +21,7 @@
         - "Owning production systems from design and implementation to monitoring and reliability."
         - "Tech: Java, Python, Distributed Systems, Microservices, Data Ingestion, Performance Optimization"
 
-    - title: "SDE 2"
+    - title: "SDE 2 (Software Development Engineer 2)"
       period: "Apr 2024 – Apr 2026"
       description: >
         Built and scaled backend systems for fintech applications, working across
@@ -36,7 +36,7 @@
         - "Worked across application, database, messaging, and infrastructure layers to improve system reliability and performance."
         - "Tech: Java, Spring Boot, Golang, Kafka, RabbitMQ, Redis, PostgreSQL, MySQL, AWS, EKS, ECS, EC2, S3, RDS, ElastiCache, API Gateway, Lambda, SNS, WAF, IAM, CloudFormation, Loki, Prometheus, Grafana, Jaeger, Elasticsearch"
 
-    - title: "SDE 1"
+    - title: "SDE 1 (Software Development Engineer 1)"
       period: "Jun 2022 – Mar 2024"
       description: >
         Transitioned from AR/VR and Vision Intelligence to fintech, building
