@@ -1,7 +1,41 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "TODO: Project Name"
+excerpt: "TODO: One-line description of the project.<br/>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+## Overview
+
+<!-- TODO: Describe what this project does and why it exists. -->
+
+TODO: Write a brief overview of the project — what problem it solves, who uses it, and what makes it interesting.
+
+## Tech Stack
+
+<!-- TODO: List the key technologies used -->
+
+- **Language:** TODO (e.g. Java, Python)
+- **Framework:** TODO (e.g. Spring Boot)
+- **Database:** TODO (e.g. PostgreSQL, Redis)
+- **Infrastructure:** TODO (e.g. AWS, Kubernetes)
+
+## Key Features
+
+<!-- TODO: Bullet point the most impressive/relevant features -->
+
+- TODO: Feature 1
+- TODO: Feature 2
+- TODO: Feature 3
+
+## My Role
+
+<!-- TODO: Describe what you specifically built or led -->
+
+TODO: Were you the sole developer? Did you lead the architecture? Mention your specific contributions.
+
+## Links
+
+<!-- TODO: Add GitHub repo link and/or live demo link if public -->
+
+- [GitHub Repository](#) — *(link coming soon)*
+- [Live Demo](#) — *(if applicable)*

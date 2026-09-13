@@ -1,0 +1,109 @@
+# Work Experience
+# Ordered newest-first. Each company can have multiple roles to capture promotions.
+# Fields: company, location, url (optional), roles (list of title, period, description, highlights)
+
+- company: "Pirimid Fintech"
+  location: "Ahmedabad, India (Hybrid)"
+  url: "https://pirimidtech.com"
+  roles:
+    - title: "SDE 3"
+      period: "May 2026 – Present"
+      description: >
+        Leading the design and operation of financial data platforms powering
+        market data, news, mutual funds, and ULIP data for products serving
+        5M+ users. Focused on building systems that handle large data volumes
+        with very low latency while staying reliable at scale.
+      highlights:
+        - "Leading the end-to-end design and development of financial data ingestion systems handling millions of records."
+        - "Building high-throughput systems with microsecond-level latency for financial data workloads."
+        - "Working across market data, news, mutual funds, and ULIP data pipelines serving 5M+ users."
+        - "Driving improvements in system performance, scalability, reliability, and architecture."
+        - "Owning production systems from design and implementation to monitoring and reliability."
+        - "Tech: Java, Python, Distributed Systems, Microservices, Data Ingestion, Performance Optimization"
+
+    - title: "SDE 2"
+      period: "Apr 2024 – Apr 2026"
+      description: >
+        Built and scaled backend systems for fintech applications, working across
+        microservices, messaging, databases, AWS infrastructure, and observability.
+        Focused on making services faster, more reliable, and easier to operate at scale.
+      highlights:
+        - "Designed and built distributed backend systems and microservices for fintech applications."
+        - "Built event-driven services using Kafka and RabbitMQ to process workloads asynchronously at scale."
+        - "Worked on caching and data-access improvements using Redis, PostgreSQL, and MySQL."
+        - "Designed and managed AWS infrastructure across EKS, ECS, EC2, RDS, ElastiCache, S3, Lambda, and API Gateway."
+        - "Improved application monitoring and troubleshooting using Prometheus, Grafana, Loki, Jaeger, and Elasticsearch."
+        - "Worked across application, database, messaging, and infrastructure layers to improve system reliability and performance."
+        - "Tech: Java, Spring Boot, Golang, Kafka, RabbitMQ, Redis, PostgreSQL, MySQL, AWS, EKS, ECS, EC2, S3, RDS, ElastiCache, API Gateway, Lambda, SNS, WAF, IAM, CloudFormation, Loki, Prometheus, Grafana, Jaeger, Elasticsearch"
+
+    - title: "SDE 1"
+      period: "Jun 2022 – Mar 2024"
+      description: >
+        Transitioned from AR/VR and Vision Intelligence to fintech, building
+        backend services and APIs for financial solutions used by leading
+        e-commerce companies. Worked on systems serving millions of customers
+        and handling 10M+ API calls per month.
+      highlights:
+        - "Designed and built secure, high-performance APIs and backend services used by millions of customers."
+        - "Worked on backend systems handling 10M+ API calls per month."
+        - "Built scalable services using Java, Golang, and NodeJS for high-volume fintech workloads."
+        - "Built asynchronous processing workflows using Kafka and RabbitMQ."
+        - "Used Redis for caching and improving application performance."
+        - "Worked with AWS and Docker to deploy and run production backend services."
+        - "Built experience across API design, microservices, messaging, databases, cloud infrastructure, and monitoring."
+        - "Tech: Java, Golang, NodeJS, Spring Boot, Redis, Apache Kafka, RabbitMQ, AWS, Docker, Prometheus, Grafana"
+
+- company: "Aura Interact"
+  location: "Ahmedabad, India (Hybrid)"
+  url: "https://www.aurainteract.com/"
+  roles:
+    - title: "Software Engineer"
+      period: "May 2021 – May 2022"
+      description: >
+        Worked as part of the Backend & Machine Learning team, building
+        software and AI-driven solutions for clients across AR/VR, advertising,
+        finance, and public safety. Worked across machine learning, computer
+        vision, backend development, and data processing.
+      highlights:
+        - "Developed computer vision and deep learning solutions for video advertising and real-world sports environments."
+        - "Built dynamic ad placement solutions that used computer vision to identify and place advertisements within sports scenes."
+        - "Developed AI-powered public safety solutions using image analysis, route computation, and data-driven scoring."
+        - "Built backend services and APIs to support machine learning and computer vision applications."
+        - "Worked on data-processing pipelines for handling and analyzing large volumes of application data."
+        - "Worked across multiple client projects spanning AR/VR, advertising, finance, and public safety."
+        - "Tech: Python, C++, Django, Flask, MySQL, MongoDB, AWS, Computer Vision, Deep Learning, Machine Learning"
+
+- company: "Vartronics Techlabs"
+  location: "Ahmedabad, India (Hybrid)"
+  url: ""
+  roles:
+    - title: "Software Engineering Intern"
+      period: "Mar 2019 – Dec 2019"
+      description: >
+        Worked on the Indian Air Force Mehar Baba Swarm Drone Competition
+        (2018–19) as part of a joint team involving Vartronics Techlabs,
+        Pentashield, and Z-Axis Unmanned Machines. Focused on computer vision,
+        AI-based aerial imagery analysis, and software for GPS-denied swarm-drone
+        operations.
+      highlights:
+        - "Developed AI-based human detection from aerial imagery for swarm-drone operations."
+        - "Implemented object detection using Mask R-CNN and Faster R-CNN for identifying people from drone imagery."
+        - "Worked on GPS-denied aerial operations, including estimating approximate ground coordinates from camera imagery."
+        - "Contributed to multi-drone coordination and payload-drop operations as part of the swarm-drone system."
+        - "Worked closely with the team to integrate computer vision models with the broader drone-operation workflow."
+        - "Tech: Python, C++, OpenCV, Django, Flask, MySQL, MongoDB, Deep Learning"
+        - "Project: https://www.youtube.com/watch?v=h3QLFirilNo"
+        - "Certificate & More Details: https://bit.ly/dhruvilmaniar-projects-iaf-certificate"
+
+
+# Add more companies below in the same format:
+# - company: "Previous Company"
+#   location: "City, Country"
+#   url: ""
+#   roles:
+#     - title: "Role Title"
+#       period: "Month Year – Month Year"
+#       description: "Description here."
+#       highlights:
+#         - "Highlight 1"
+#         - "Highlight 2"
