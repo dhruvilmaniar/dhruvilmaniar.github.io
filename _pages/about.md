@@ -55,15 +55,3 @@ When I'm not building systems, you'll find me reading books (check out my [Books
 Feel free to [reach out](mailto:dhruvilmaniar+dg@gmail.com) - I'm always open to interesting conversations, discussing engineering problems, or hearing a good joke! 👋
 
 ---
-
-<style>
-/* Widen content area on homepage — desktop only */
-@media (min-width: 1024px) {
-  /* Remove the ~2/12 right suffix that creates dead whitespace */
-  .page {
-    width: 91.66667% !important;
-    padding-right: 0 !important;
-    margin-right: 0 !important;
-  }
-}
-</style>
